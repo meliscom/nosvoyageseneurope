@@ -69,6 +69,14 @@ a {
   outline: none;
   text-decoration: none;
 }
+
+a.ok {
+    position: fixed;
+    right: 40px;
+    top: 80%;
+    height: 42px;
+    width: 52px;
+}
 a,
 a:hover,
 a:focus {
@@ -819,7 +827,7 @@ a.icon {
 
 #map button {
 margin-top: 20px
-
+}
 #map textarea {
 	margin-top: 30px
 }
