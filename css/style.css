@@ -160,6 +160,8 @@ nav {
 
 nav a {
   color: #333333;
+	font-size: 24px;
+	font-weight: 700;
 }
 
 .navbar {
@@ -848,7 +850,12 @@ iframe {
 	position: relative;
 }
 
-
+ #about form{
+  background: #141414;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  text-align: center;
+}
 /* footer section styles
 /* ========================================== */
 footer {
